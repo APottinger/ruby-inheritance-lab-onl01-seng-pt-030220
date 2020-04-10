@@ -1,4 +1,4 @@
-require rel
+'require relative' 
 
 class Teacher
 
