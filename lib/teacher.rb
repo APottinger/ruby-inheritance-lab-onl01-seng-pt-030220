@@ -1,4 +1,4 @@
-'require relative' 
+class Teacher < User
 
 class Teacher
 
